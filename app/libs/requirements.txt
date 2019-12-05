@@ -1,5 +1,4 @@
-Flask
-sqlalchemy
-cryptography
-PyMySQL
-PyMySQL[rsa]
+flask
+pymysql
+flask-restplus
+flask-sqlalchemy
